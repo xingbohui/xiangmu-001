@@ -1,0 +1,31 @@
+#additionalServices .as-title {
+  width: 1310px;
+  margin: auto;
+  text-align: left;
+}
+#additionalServices .as-title li {
+  width: 140px;
+  height: 45px;
+  line-height: 45px;
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  margin-bottom: -6px;
+  cursor: pointer;
+}
+#additionalServices .as-title li.as-active {
+  width: 161px;
+  height: 52px;
+  line-height: 45px;
+  background: #F6F6F6;
+  border-radius: 4px;
+  color: #C42323;
+}
+#additionalServices .as-con {
+  width: 1310px;
+  height: 449px;
+  background: #F6F6F6;
+  color: #333333;
+  margin: auto;
+}
+/*# sourceMappingURL=style.css.map */

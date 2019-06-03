@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e568eb31-8a12-428f-b341-7f64545330e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../myapp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/format" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/pristine/3e/3e30ccefd399b947d9f87f5fddf88f684e34c1c1.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/pristine/50/50c07356d2014bcbcf2b6754eb552decb50fae17.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/pristine/91/912b63a87c9e540a9b0efe84e7ec2c535736f4b9.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/pristine/bf/bf0a06b29ebdb2dfa35564095de6041e77f21e49.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/wc.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/.svn/wc.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/Github创建自己的仓库并上传和更新.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../biji/Github创建自己的仓库并上传和更新.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../biji/Nodejs.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../biji/Nodejs.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/myreactone/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/myreactone/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/myreactone/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/myreactone/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/myreactone/src/scene/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/myreactone/src/scene/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/myreactone/src/scene/page/pageOne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/myreactone/src/scene/page/pageThree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/myreactone/src/scene/page/pageTwo.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/router/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountTitleTab.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+              <folding>
+                <element signature="e#111#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/newibe/helper/accountData.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/login/register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/newibe/account/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/accountTipsInfo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/MenuRightBlock/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/MenuRightBlock/authentication.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/orderDetails/additionalServices/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>link</find>
+      <find>regularRadio</find>
+      <find>lg-register</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Link</replace>
+      <replace>lg-register-radio</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/welcome.js" />
+        <option value="$PROJECT_DIR$/src/home/home.jsx" />
+        <option value="$PROJECT_DIR$/src/component/home.js" />
+        <option value="$PROJECT_DIR$/src/component/book.js" />
+        <option value="$PROJECT_DIR$/src/component/order.js" />
+        <option value="$PROJECT_DIR$/src/component/Order.js" />
+        <option value="$PROJECT_DIR$/src/component/tow/form.js" />
+        <option value="$PROJECT_DIR$/src/css/home/home.less" />
+        <option value="$PROJECT_DIR$/src/component/App.js" />
+        <option value="$PROJECT_DIR$/src/component/HoPage.js" />
+        <option value="$PROJECT_DIR$/src/component/comment/CommentList.js" />
+        <option value="$PROJECT_DIR$/src/component/comment/Comment.jsx" />
+        <option value="$PROJECT_DIR$/src/css/comment/comment.less" />
+        <option value="$PROJECT_DIR$/src/component/comment/CommentForm.jsx" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/component/index.js" />
+        <option value="$PROJECT_DIR$/public/comment/index.html" />
+        <option value="$PROJECT_DIR$/src/component/comment/index.js" />
+        <option value="$PROJECT_DIR$/src/component/comment/package.json" />
+        <option value="$PROJECT_DIR$/src/component/comment/comment.json" />
+        <option value="$PROJECT_DIR$/src/component/comment/CommentBox.jsx" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/component/comment/CommentList.jsx" />
+        <option value="$PROJECT_DIR$/src/component/publiceComponent/button.jsx" />
+        <option value="$PROJECT_DIR$/src/component/login/style.less" />
+        <option value="$PROJECT_DIR$/src/component/login/register.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/style.less" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/menuRightBlock/mobilePhoneMangement/mobliePhoneMangementForm.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/menuRightBlock/personalInfo/personalInfoForm.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/menuRightBlock/frequentPassengerCard/frequentPassengerCardFrom.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/index.js" />
+        <option value="$PROJECT_DIR$/src/component/router/App.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountTitleTab.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/index.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/accountTipsInfo.js" />
+        <option value="$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/MenuRightBlock/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="newibe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="newibe" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="newibe" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="accountAuthentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="newibe" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="accountAuthentication" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRightBlock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="F:\my\xiangmu\myReact\my-app\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="F:\my\xiangmu\myReact\my-app\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\my\xiangmu\myReact\my-app\src\component" />
+      <recent name="F:\my\xiangmu\myReact\my-app\src" />
+      <recent name="F:\my\xiangmu\myReact\my-app\src\component\comment" />
+      <recent name="F:\my\xiangmu\myReact\my-app\src\component\router" />
+      <recent name="F:\my\xiangmu\myReact\my-app\src\resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\my\xiangmu\myReact\my-app\src\component\newibe\helper" />
+      <recent name="F:\my\xiangmu\myReact\my-app\src\component\newibe" />
+      <recent name="F:\my\xiangmu\myReact\my-app\src\resource" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CommentList.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/component/comment/CommentList.jsx" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.CommentList.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xingbohui\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e568eb31-8a12-428f-b341-7f64545330e3" name="Default Changelist" comment="" />
+      <created>1546101431004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546101431004</updated>
+      <workItem from="1546101437596" duration="1061000" />
+      <workItem from="1546102528087" duration="32000" />
+      <workItem from="1546162095352" duration="2753000" />
+      <workItem from="1546191369911" duration="695000" />
+      <workItem from="1546234164638" duration="61000" />
+      <workItem from="1546263658932" duration="5562000" />
+      <workItem from="1546337952783" duration="4924000" />
+      <workItem from="1546391312561" duration="8669000" />
+      <workItem from="1546607890457" duration="853000" />
+      <workItem from="1546909544080" duration="648000" />
+      <workItem from="1546916545619" duration="7464000" />
+      <workItem from="1546928874676" duration="1647000" />
+      <workItem from="1546933956754" duration="1092000" />
+      <workItem from="1546995156877" duration="3172000" />
+      <workItem from="1547012196987" duration="2888000" />
+      <workItem from="1547166885899" duration="1026000" />
+      <workItem from="1547168178859" duration="603000" />
+      <workItem from="1547448300971" duration="2921000" />
+      <workItem from="1548035332117" duration="6130000" />
+      <workItem from="1548637762388" duration="3550000" />
+      <workItem from="1548643320246" duration="2442000" />
+      <workItem from="1548722384839" duration="812000" />
+      <workItem from="1550815847126" duration="3000" />
+      <workItem from="1550828002865" duration="854000" />
+      <workItem from="1551059154274" duration="25000" />
+      <workItem from="1557988733230" duration="56000" />
+      <workItem from="1558314916274" duration="10998000" />
+      <workItem from="1558662014893" duration="4106000" />
+      <workItem from="1558694479899" duration="1230000" />
+      <workItem from="1559094121330" duration="4521000" />
+      <workItem from="1559178783227" duration="207000" />
+      <workItem from="1559543346601" duration="5068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86073000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49739584" visible="true" weight="0.21917808" />
+      <window_info id="Structure" order="1" sideWeight="0.5026042" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.5026042" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.43336946" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49739584" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5026042" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.5026042" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3420622" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/src/welcome.js" />
+    <entry file="file://$PROJECT_DIR$/src/css/home/home.less" />
+    <entry file="file://$PROJECT_DIR$/src/css/comment/comment.less" />
+    <entry file="file://$PROJECT_DIR$/src/resource/css/home/home.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/router/Order.js" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/comment/index.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="298" column="8" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/comments.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.12.0/core-modules/vm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/router/tow/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/comment/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/comment/CommentBox.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/comment/CommentForm.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/orderDetails/seat/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/router/Book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/updateDate/date.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/router/HoPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/login/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/login/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/comment/CommentList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/orderDetails/insuranceDetails/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/accountAuthentication/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/publiceComponent/button.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/comment/Comment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/orderDetails/asCon/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/menuRightBlock/mobilePhoneMangement/mobliePhoneMangementForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="65" lean-forward="true" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/menuRightBlock/personalInfo/personalInfoForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/orderDetails/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/orderDetails/additionalServices/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/menuRightBlock/frequentPassengerCard/frequentPassengerCardFrom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="65" lean-forward="true" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/style.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/login/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/router/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/helper/accountData.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountTitleTab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="e#111#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/accountTipsInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/MenuRightBlock/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/newibe/account/accountAuthentication/MenuRightBlock/authentication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

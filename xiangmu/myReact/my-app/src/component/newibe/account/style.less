@@ -1,0 +1,118 @@
+@import './accountAuthentication/style.less';
+/**
+  *@function: account-pag
+  *@author: bhxing
+  **/
+.account {
+
+  /**
+  *@function: ac-public
+  *@author: bhxing
+  **/
+  ul,li{
+    list-style: none;
+  }
+  hr{
+    margin-bottom: 30px;
+    border: 1px solid #CCCCCC;
+  }
+  margin: auto;
+  width: 68.2%;
+  font-family: PingFangSC-Medium;
+
+  .ac-myAccount, .ac-wellcom, .ac-infoSurvey{
+    width: 100%;
+  }
+
+  /**
+   *@function: ac-myAccount
+   *@author: bhxing
+   **/
+
+  .ac-myAccount {
+    height: 193px;
+    h2{
+      margin: 30px 0;
+    }
+    .ac-accountInfo {
+      float: left;
+      width: 24.4%;
+      height: 100px;
+      text-align: center;
+      font-size: 16px;
+      margin-right: 10px;
+      border-radius: 8px;
+      display: flex;
+      background: #F6F6F6;
+      color: #333333;
+      cursor: pointer;
+
+      &.ac-accountInfo-red {
+        border: 1px solid #E0E0E0;
+        box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.16);
+        border-radius: 8px;
+        background: #C42323;
+        color: #fff;
+      }
+      .ac-account-con{
+        margin: auto;
+      }
+    }
+    .ac-accountInfo:nth-of-type(4){
+      margin: 0;
+    }
+  }
+
+  /**
+   *@function: ac-wellcom
+   *@author: bhxing
+   **/
+
+  .ac-wellcom{
+    height: 73px;
+    span:nth-of-type(1){
+      font-size: 24px;
+      color: #C62828;
+    }
+    span:nth-of-type(2){
+      font-size: 24px;
+      color: #333333;
+    }
+    span:nth-of-type(3){
+      float: right;
+      font-size: 16px;
+      color: #C42323;
+      cursor: pointer;
+    }
+  }
+  /**
+   *@function: ac-infoSurvey
+   *@author: bhxing
+   **/
+  .ac-infoSurvey{
+    height: 213px;
+    h3{
+      margin-bottom: 10px;
+    }
+    .infoSurvey-con{
+      height: 148px;
+      padding: 20px 0 20px 20px;
+      border-radius: 8px;
+      background: #EAF7EB;
+      .infoSurvey-row:nth-of-type(1){
+        margin-bottom: 20px;
+      }
+      .infoSurvey-row{
+        div{
+          display: inline-block;
+          width: 30%;
+          p{
+            height: 22px;
+            line-height: 22px;
+          }
+        }
+      }
+    }
+  }
+
+}

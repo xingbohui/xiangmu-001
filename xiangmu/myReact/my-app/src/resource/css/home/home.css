@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: '微软雅黑';
+}
+body #root ul,
+body #root ol,
+body #root li {
+  list-style: none;
+}
+body #root .header {
+  text-align: center;
+}
+body #root .header li {
+  display: inline-block;
+  width: 80px;
+  height: 20px;
+  line-height: 20px;
+  color: #000;
+}
+body #root .conent {
+  color: #fff;
+  width: auto;
+  height: 1000px;
+  background: #adcd97;
+  margin: auto;
+  text-align: center;
+}
+/*# sourceMappingURL=home.css.map */

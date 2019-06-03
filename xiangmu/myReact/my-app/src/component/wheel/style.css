@@ -1,0 +1,59 @@
+.div {
+  background: #cccccc;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+.div .div-con {
+  width: 400px;
+  height: 50px;
+  position: relative;
+  left: 0;
+  background: #898989;
+  animation: arise .3s linear;
+}
+.div .anchor-disappear {
+  width: 0px;
+  overflow: hidden;
+  animation: disappear .3s linear;
+}
+.div .anchor-arise {
+  width: 112px;
+  overflow: hidden;
+  animation: arise .3s linear;
+}
+@keyframes disappear {
+  0% {
+    width: 112px;
+  }
+  25% {
+    width: 84px;
+  }
+  50% {
+    width: 56px;
+  }
+  75% {
+    width: 28px;
+  }
+  100% {
+    width: 0px;
+  }
+}
+@keyframes arise {
+  0% {
+    width: 0px;
+  }
+  25% {
+    width: 28px;
+  }
+  50% {
+    width: 56px;
+  }
+  75% {
+    width: 84px;
+  }
+  100% {
+    width: 112px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
